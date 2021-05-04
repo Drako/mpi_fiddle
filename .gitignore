@@ -1,0 +1,8 @@
+# CLion
+*.iml
+.idea/*
+!.idea/codeStyles
+
+# CMake
+build/
+cmake-build*/
